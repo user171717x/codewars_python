@@ -5,4 +5,7 @@ def duplicate_encode(word):
 
 # print(duplicate_encode("Success"))
 # print(duplicate_encode("(( @"))
-print(duplicate_encode('))(()())())'))
+print(duplicate_encode('VURU oRVpSLtvQWtivi'))  # '))))(())((())(())))'
+# VURU oRVpSLtvQWtivi
+# ))))(())((())(())))
+# ))))(())())))))))))
